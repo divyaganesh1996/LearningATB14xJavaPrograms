@@ -5,7 +5,7 @@ package ex_02_Java_Basics;
 *
 * */
 
-public class Lab_02_Multi_Line_Comments {
+public class Lab_03_Multi_Line_Comments {
     /*
     *
     *
